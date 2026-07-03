@@ -1,4 +1,8 @@
 {
   "enabled": true,
-  "telemetry": true
+  "telemetry": true,
+  "ticket": {
+    "platform": "linear",
+    "team": "MOH"
+  }
 }
